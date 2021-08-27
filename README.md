@@ -1,7 +1,7 @@
 Merhaba 👋, Ben Rıdvan ÜÇDAĞ
 
 
-Ben Kimim ?
+Peki Ben Kimim ?
 
 VBT Yazılım şirketinde Jr. Full-Stack developer olarak ilerliyorum. 
 
