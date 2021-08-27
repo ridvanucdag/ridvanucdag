@@ -1,5 +1,4 @@
 Merhaba 👋, Ben Rıdvan ÜÇDAĞ
-𝙶𝙸𝙵
 
 
 Ben Kimim
