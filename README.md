@@ -3,6 +3,8 @@ Merhaba 👋, Ben Rıdvan ÜÇDAĞ
 
 Peki Ben Kimim ?
 
+Kendimi sürekli geliştirmeye çalışan bir yazılım mühendisiyim
+
 VBT Yazılım şirketinde Jr. Full-Stack developer olarak ilerliyorum. 
 
 Front-End tarafında Vue.js, Back-End tarafında .Net kullanıyorum.
