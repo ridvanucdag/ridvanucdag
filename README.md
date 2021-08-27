@@ -12,6 +12,7 @@ Kişisel sitem : https://ridvanucdag.com
   
 
 🤝Sosyal Medya Hesaplarım
+
 https://tr.linkedin.com/in/ridvanucdag
 
 https://www.instagram.com/ridvan_ucdag
