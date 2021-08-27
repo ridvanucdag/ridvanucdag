@@ -2,6 +2,7 @@ Merhaba 👋, Ben Rıdvan ÜÇDAĞ
 
 
 Ben Kimim ?
+
 VBT Yazılım şirketinde Jr. Full-Stack developer olarak ilerliyorum. Front-End tarafında Vue.js, Back-End tarafında .Net kullanıyorum.
 
 Kullandığım Teknolojiler : .Net, Vue.js, MSSQL, Figma, Git ve Jira
