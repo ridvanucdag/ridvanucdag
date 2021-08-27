@@ -5,7 +5,7 @@ Peki Ben Kimim ?
 
 Kendimi sürekli geliştirmeye çalışan bir yazılım mühendisiyim.  VBT Yazılım şirketinde Jr. Full-Stack developer olarak ilerliyorum. 
 
-Front-End tarafında Vue.js, Back-End tarafında .Net kullanıyorum.  Kullandığım Teknolojiler : .Net, Vue.js, MSSQL, Figma, Git ve Jira
+Kullandığım Teknolojiler : .Net, Vue.js, MSSQL, Figma, Git ve Jira
 
 Kişisel sitem : https://ridvanucdag.com
 
