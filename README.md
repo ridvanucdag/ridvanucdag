@@ -14,13 +14,13 @@ Kişisel sitem : https://ridvanucdag.com
 
 🤝Sosyal Medya Hesaplarım
 
-https://tr.linkedin.com/in/ridvanucdag
+- https://tr.linkedin.com/in/ridvanucdag
 
-https://www.instagram.com/ridvan_ucdag
+- https://www.instagram.com/ridvan_ucdag
 
-https://www.twitter.com/ridvanucdag
+- https://www.twitter.com/ridvanucdag
 
-https://www.facebook.com/ridvanucdagg
+- https://www.facebook.com/ridvanucdagg
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridvanucdag&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
