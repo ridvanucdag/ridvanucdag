@@ -9,7 +9,7 @@ Kullandığım Teknolojiler : .Net, Vue.js, MSSQL, Figma, Git ve Jira
 
 Kişisel sitem : https://ridvanucdag.com
 
-💻Rıdvan ÜÇDAĞ - Software Engineer
+###  💻Rıdvan ÜÇDAĞ - Software Engineer
   
 
 🤝Sosyal Medya Hesaplarım
