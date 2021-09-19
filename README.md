@@ -1,4 +1,4 @@
-Merhaba 👋, Ben Rıdvan ÜÇDAĞ
+### Merhaba 👋, Ben Rıdvan ÜÇDAĞ
 
 
 Peki Ben Kimim ?
@@ -21,6 +21,11 @@ https://www.instagram.com/ridvan_ucdag
 https://www.twitter.com/ridvanucdag
 
 https://www.facebook.com/ridvanucdagg
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridvanucdag&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ridvanucdag) 
   
 
 <!--
