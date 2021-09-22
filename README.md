@@ -26,6 +26,9 @@ Kişisel sitem : https://ridvanucdag.com
 
 ## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridvanucdag&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+## 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridvanucdag&theme=dark)](https://git.io/streak-stats)
+
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ridvanucdag) -->
 
 ![Profile views](https://gpvc.arturio.dev/ridvanucdag)  
