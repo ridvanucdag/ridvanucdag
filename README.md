@@ -3,7 +3,8 @@
 
 Peki Ben Kimim ?
 
-Kendimi sürekli geliştirmeye çalışan bir yazılım mühendisiyim.  VBT Yazılım şirketinde Jr. Full-Stack developer olarak ilerliyorum. 
+Kendimi sürekli geliştirmeye çalışan bir yazılım mühendisiyim.  VBT Yazılım şirketinde Jr. Full-Stack developer olarak ilerliyorum.
+Phexum yazılım firmasına Sosyal Medya ve Dijital Pazarlama danışmanlığı hizmeti veriyorum.
 
 Kullandığım Teknolojiler : .Net, Vue.js, MSSQL, Figma, Git ve Jira
 
