@@ -4,9 +4,10 @@
 Peki Ben Kimim ?
 
 Kendimi sürekli geliştirmeye çalışan bir yazılım mühendisiyim.  VBT Yazılım şirketinde Jr. Full-Stack developer olarak ilerliyorum.
-Phexum yazılım firmasına Sosyal Medya ve Dijital Pazarlama danışmanlığı hizmeti veriyorum.
 
-Kullandığım Teknolojiler : .Net, Vue.js, MSSQL, Figma, Git ve Jira
+İndex Grup şirketinin pazar yeri e-ticaret sitesinin baştan sona kodlanmasında Aralık ayından itibaren Full-Stack Developer olarak görev alıyorum.
+
+Kullandığım Teknolojiler : .Net, Vue.js, ReactJs, MSSQL, Figma, Git ve Jira
 
 Kişisel sitem : https://ridvanucdag.com
 
