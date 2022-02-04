@@ -5,9 +5,9 @@ Peki Ben Kimim ?
 
 Kendimi sürekli geliştirmeye çalışan bir yazılım mühendisiyim.  VBT Yazılım şirketinde Jr. Full-Stack developer olarak ilerliyorum.
 
-İndex Grup şirketinin pazar yeri e-ticaret sitesinin baştan sona kodlanmasında, Aralık ayından itibaren Full-Stack Developer olarak görev alıyorum.
+İndex Grup şirketinin pazar yeri e-ticaret sitesinin baştan sona kodlanmasında, Aralık ayından itibaren FrontEnd Developer olarak görev alıyorum.
 
-Kullandığım Teknolojiler : .Net, Vue.js, ReactJs, MSSQL, Figma, Git ve Jira
+Kullandığım Teknolojiler :  ReactJs, .Net, Vue.js, MSSQL, Figma, Git ve Jira
 
 Kişisel sitem : https://ridvanucdag.com
 
