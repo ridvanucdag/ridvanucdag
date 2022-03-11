@@ -5,7 +5,7 @@ Peki Ben Kimim ?
 
 Kendimi sürekli geliştirmeye çalışan bir yazılım mühendisiyim.  VBT Yazılım şirketinde Jr. Full-Stack developer olarak ilerliyorum.
 
-İndex Grup şirketinin pazar yeri e-ticaret sitesinin baştan sona kodlanmasında, Aralık ayından itibaren FrontEnd Developer olarak görev alıyorum.
+İndex Grup şirketinin pazar yeri e-ticaret sitesinin baştan sona kodlanmasında, Ocak ayından itibaren FrontEnd Developer olarak görev alıyorum.
 
 Kullandığım Teknolojiler :  ReactJs, .Net, Vue.js, MSSQL, Figma, Git ve Jira
 
