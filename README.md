@@ -3,17 +3,14 @@
 
 Peki Ben Kimim ?
 
-Kendimi sürekli geliştirmeye çalışan bir yazılım mühendisiyim.  VBT Yazılım şirketinde Jr. Full-Stack developer olarak ilerliyorum.
+Kendimi sürekli geliştirmeye çalışan bir yazılım mühendisiyim. Jr. Full-Stack developer olarak ilerliyorum.
 
-İndex Grup şirketinin pazar yeri e-ticaret sitesinin baştan sona kodlanmasında, Ocak ayından itibaren FrontEnd Developer olarak görev alıyorum.
-
-Kullandığım Teknolojiler :  ReactJs, .Net, Vue.js, MSSQL, Figma, Git ve Jira
+Kullandığım Teknolojiler :  ReactJs, Vue.js, NodeJs, .Net, MSSQL, Figma, Git ve Jira
 
 Kişisel sitem : https://ridvanucdag.com
 
 ## 💻Rıdvan ÜÇDAĞ - Software Engineer
   
-
 🤝Sosyal Medya Hesaplarım
 
 - https://tr.linkedin.com/in/ridvanucdag
@@ -24,6 +21,8 @@ Kişisel sitem : https://ridvanucdag.com
 
 - https://www.facebook.com/ridvanucdagg
 
+- 11.03.2022
+![Profile views](https://gpvc.arturio.dev/ridvanucdag)  
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridvanucdag&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -32,7 +31,3 @@ Kişisel sitem : https://ridvanucdag.com
 <!--! [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridvanucdag&theme=dark)](https://git.io/streak-stats) -->
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ridvanucdag) -->
-
-![Profile views](https://gpvc.arturio.dev/ridvanucdag)  
-
-
