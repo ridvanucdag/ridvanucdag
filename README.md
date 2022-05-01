@@ -22,6 +22,7 @@ Kişisel sitem : https://ridvanucdag.com
 - https://www.facebook.com/ridvanucdagg
 
 - 11.03.2022
+- 
 ![Profile views](https://gpvc.arturio.dev/ridvanucdag)  
 ##
 
