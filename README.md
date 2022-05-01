@@ -22,7 +22,7 @@ Kişisel sitem : https://ridvanucdag.com
 - https://www.facebook.com/ridvanucdagg
 
 ![Profile views](https://gpvc.arturio.dev/ridvanucdag)  
-- 11.03.2022
+- 11.03.2022 tarihinde sayaç eklendi.
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridvanucdag&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
