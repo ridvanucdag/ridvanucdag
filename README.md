@@ -3,9 +3,9 @@
 
 Peki Ben Kimim ?
 
-Kendimi sürekli geliştirmeye çalışan bir yazılım mühendisiyim. Jr. Full-Stack developer olarak ilerliyorum.
+Kendimi sürekli geliştirmeye çalışan bir yazılım mühendisiyim. Frontend developer olarak ilerliyorum.
 
-Kullandığım Teknolojiler :  ReactJs, Vue.js, NodeJs, .Net, MSSQL, Figma, Git ve Jira
+Kullandığım Teknolojiler :  ReactJs, React Native, Typescript, NextJs, Gatsby, Sketch, Figma, Git, Azure ve Jira
 
 Kişisel sitem : https://ridvanucdag.com
 
